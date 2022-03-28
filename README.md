@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Liran Avichzer
 - 👀 I’m interested in ML and Encryption
-- 🌱 I’m currently learning Bsc in computer science  
+- 🌱 Bsc in computer science  
 - 📫 you can reach me in linkedin 
 
 <!---
